@@ -1,2 +1,2 @@
-# Groupe de khelif_l 1041651
-
+### Premiers pas sur Bash
+Sur ce Repo, plusieurs commandes Bash pour retrouver le mot secret de gate-of-hyrule.php

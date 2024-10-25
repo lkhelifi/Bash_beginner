@@ -1,0 +1,1 @@
+grep -o Ruto poem | wc -l
